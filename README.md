@@ -1,4 +1,4 @@
-# eyemovement
+# Eyemovement
 
 This Project has two eyes which follow the mouse movement. Both the eyes are synchronised to follow the directions of the mouse pointer. It looks like a person following the mouse. The mouse movement event is used to update the position of the "eye" element displayed on the page. Mouse events are a popular way to bind the DOM elements to events.
 
